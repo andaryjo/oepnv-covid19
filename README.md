@@ -2,7 +2,7 @@
 
 This repository contains data regarding the estimated usage of public transport in Germany during the COVID-19 pandemic in 2020. The data is extracted from the public transport companion [Abfahrt](https://play.google.com/store/apps/details?id=de.andary.abfahrt), which is an Android app that can be used to retrieve the next departures for a specific bus stop or a train station.
 
-Abfahrt supports multiple public transport providers in Germany and is used by over a 1,000 active users throughout the country. It logs the amount of requests by endusers for departures per station and publishes them in the [Abfahrt Livemap](https://andary.de/api/abfahrt/livemap/) (which is now deprecated and will be retired in Q1 2021 due to infrastructure changes).
+Abfahrt supports multiple public transport providers in Germany and is used by over a 1,000 active users throughout the country. It logs the amount of requests by endusers for departures per station and publishes them in the Abfahrt Livemap (retired as of Q1 2021).
 
 The amount of requests for information on departures is likely correlated to how many people are actually using public transportation. The amount of requests per week in 2020 can be found inside of `2020.csv`. The amount of requests per week is relative to the maximum amount of requests per week.
 
