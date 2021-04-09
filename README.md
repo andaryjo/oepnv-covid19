@@ -10,7 +10,7 @@ The amount of requests for information on departures is likely correlated to how
 
 The following diagram displays the data of `2020.csv`:
 
-![Amount of requests per week in 2020](https://andary.de/io/oepnv-covid19.jpg)
+![oepnv-covid19](https://user-images.githubusercontent.com/66257646/114177321-8e55b080-993c-11eb-8528-96f6f62163e0.jpg)
 
 - The highest estimated usage of public transportation can be observed in **February 2020** (Week 7).
 - On **March 17** (Week 12), [the Robert-Koch-Institut classifies the infection risk in Germany as high](https://www.tagesschau.de/inland/coronavirus-deutschland-rki-101.html). In the same week, [Angela Merkel addresses the public and calls for strict actions](https://www.tagesschau.de/inland/merkel-rede-109.html). The estimated usage of public transportation **drops to 35%** of the maximum in Week 7.
